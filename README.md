@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Tavid Terzian
+2. Student ID: 2382712
+3. Email: terzian@chapman.edu
+4. Class: CPSC 298
 5. Assignment: numbers 
 
 ## Application Purpose
